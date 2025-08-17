@@ -1,8 +1,5 @@
-# DIO - Trilha .NET - API e Entity Framework
-www.dio.me
-
 ## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
+Essa é a resolução do Desafio Concluído em .Net com utilização de Entity Framework, utilizando o banco de dados SQL Server. Foi efetuado todo o CRUD das tarefas em seus endpoints equivalentes. E validações de entrada e saída.
 
 ## Contexto
 Você precisa construir um sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
